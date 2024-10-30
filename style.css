@@ -1,0 +1,17 @@
+body{
+    margin: 0, 15%;
+    width: 75%;
+    border: 2px, solid, blue;
+    text-align: center;
+}
+h1{
+    background-color: lightgray;
+    margin: 0px;
+    padding: 0px;
+}
+h2{
+    background-color: lightgray;
+    margin: 0px;
+    padding: 0px;
+    font-style: italic;
+}
